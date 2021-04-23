@@ -6,7 +6,4 @@ app.liste
 //* just fyi i'm a better programmer than you
 //? jo tu likh raha hai vo tu dekh raha hai?
 // TODO: BHAI PLEASE WEEKEND KE PEHLE KHATAM KARDENA
-// basic 
-function foobar(hello){
 
-}
